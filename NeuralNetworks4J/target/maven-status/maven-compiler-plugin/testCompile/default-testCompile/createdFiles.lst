@@ -1,0 +1,10 @@
+com/isaac/examples/PerceptronExample.class
+com/isaac/examples/RestrictedBoltzmannMachineExample.class
+com/isaac/examples/DropoutExample.class
+com/isaac/examples/DeepBeliefNetsExample.class
+com/isaac/examples/ConvolutionalNeuralNetworksExample.class
+com/isaac/examples/DenoisingAutoencoderExample.class
+com/isaac/examples/MultiLayerPerceptronExample.class
+com/isaac/examples/LogisticRegressionExample.class
+com/isaac/examples/LogisticRegressionXORExample.class
+com/isaac/examples/StackedDenoisingAutoencoderExample.class
