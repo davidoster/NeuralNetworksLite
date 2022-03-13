@@ -22,6 +22,7 @@
 /Users/mac/Downloads/Ergasies_Sofia/thesis/neural_nets/NeuralNetworksLite/NeuralNetworks4J/src/main/java/com/isaac/neuralnetworks/Perceptron.java
 /Users/mac/Downloads/Ergasies_Sofia/thesis/neural_nets/NeuralNetworksLite/NeuralNetworks4J/src/main/java/com/isaac/initialization/Activation.java
 /Users/mac/Downloads/Ergasies_Sofia/thesis/neural_nets/NeuralNetworksLite/NeuralNetworks4J/src/main/java/com/isaac/neuralnetworks/DeepBeliefNets.java
+/Users/mac/Downloads/Ergasies_Sofia/thesis/neural_nets/NeuralNetworksLite/NeuralNetworks4J/src/main/java/com/isaac/examples/MultiLayerPerceptronExampleSophia.java
 /Users/mac/Downloads/Ergasies_Sofia/thesis/neural_nets/NeuralNetworksLite/NeuralNetworks4J/src/main/java/com/isaac/layers/RestrictedBoltzmannMachine.java
 /Users/mac/Downloads/Ergasies_Sofia/thesis/neural_nets/NeuralNetworksLite/NeuralNetworks4J/src/main/java/com/isaac/utils/GaussianDistribution.java
 /Users/mac/Downloads/Ergasies_Sofia/thesis/neural_nets/NeuralNetworksLite/NeuralNetworks4J/src/main/java/com/isaac/initialization/WeightInit.java

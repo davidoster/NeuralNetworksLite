@@ -2,32 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ef67203-8e40-48ac-b388-0f2d3f27294a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/Activation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/Activation$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/BiasInit$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/BiasInit$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/WeightInit$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/WeightInit$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/WeightInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/WeightInit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/ConvolutionPoolingLayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/ConvolutionPoolingLayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/DenoisingAutoencoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/DenoisingAutoencoder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/DenseLayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/DenseLayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/LogisticLayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/LogisticLayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/RestrictedBoltzmannMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/RestrictedBoltzmannMachine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/ConvolutionalNeuralNetworks.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/ConvolutionalNeuralNetworks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/DeepBeliefNets.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/DeepBeliefNets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/DropoutNetworks.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/DropoutNetworks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/MultiLayerPerceptron.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/MultiLayerPerceptron.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/StackedDenoisingAutoencoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/StackedDenoisingAutoencoder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/utils/GaussianDistribution.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/utils/GaussianDistribution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/utils/RandomGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/utils/RandomGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/ConvolutionalNeuralNetworksExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/ConvolutionalNeuralNetworksExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/DeepBeliefNetsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/DeepBeliefNetsExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/DenoisingAutoencoderExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/DenoisingAutoencoderExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/DropoutExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/DropoutExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/LogisticRegressionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/LogisticRegressionExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/LogisticRegressionXORExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/LogisticRegressionXORExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/MultiLayerPerceptronExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/MultiLayerPerceptronExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/PerceptronExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/PerceptronExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/RestrictedBoltzmannMachineExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/RestrictedBoltzmannMachineExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/StackedDenoisingAutoencoderExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/StackedDenoisingAutoencoderExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/NeuralNetworks4J.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/examples/ConvolutionalNeuralNetworksExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/examples/DeepBeliefNetsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/examples/DenoisingAutoencoderExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/examples/DropoutExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/examples/LogisticRegressionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/examples/LogisticRegressionXORExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/examples/MultiLayerPerceptronExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/examples/PerceptronExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/examples/PerceptronExampleSophia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/examples/RestrictedBoltzmannMachineExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/examples/StackedDenoisingAutoencoderExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/Activation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/Activation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/BiasInit$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/BiasInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/WeightInit$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/initialization/WeightInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/ConvolutionPoolingLayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/DenoisingAutoencoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/DenseLayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/LogisticLayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/layers/RestrictedBoltzmannMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/ConvolutionalNeuralNetworks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/DeepBeliefNets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/DropoutNetworks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/MultiLayerPerceptron.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/Perceptron.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/neuralnetworks/StackedDenoisingAutoencoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/utils/Evaluation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/utils/GaussianDistribution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/classes/com/isaac/utils/RandomGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/original-NeuralNetworks4J.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/ConvolutionalNeuralNetworksExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/DeepBeliefNetsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/DenoisingAutoencoderExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/DropoutExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/LogisticRegressionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/LogisticRegressionXORExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/MultiLayerPerceptronExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/PerceptronExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/RestrictedBoltzmannMachineExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetworks4J/target/test-classes/com/isaac/examples/StackedDenoisingAutoencoderExample.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +95,9 @@
               <set />
             </option>
             <option name="goals">
-              <list />
+              <list>
+                <option value="clean" />
+              </list>
             </option>
             <option name="pomFileName" />
             <option name="profilesMap">

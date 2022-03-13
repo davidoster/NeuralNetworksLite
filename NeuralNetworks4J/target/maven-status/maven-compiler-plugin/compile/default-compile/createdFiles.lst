@@ -26,6 +26,7 @@ com/isaac/layers/DenoisingAutoencoder.class
 com/isaac/examples/ConvolutionalNeuralNetworksExample.class
 com/isaac/examples/LogisticRegressionExample.class
 com/isaac/examples/LogisticRegressionXORExample.class
+com/isaac/examples/MultiLayerPerceptronExampleSophia.class
 com/isaac/initialization/BiasInit.class
 com/isaac/examples/DenoisingAutoencoderExample.class
 com/isaac/examples/StackedDenoisingAutoencoderExample.class

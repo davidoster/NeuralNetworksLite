@@ -184,57 +184,30 @@ public class PerceptronExampleSophia {
         testData[4][2] = 21.7;
         testData[4][3] = 32.0;
         
-        // for testing
         testData[5][0] = 7121.0;
-        testData[5][1] = 44.465;
+        testData[5][1] = 34.465;
         testData[5][2] = 29.1;
         testData[5][3] = 41.3;
 
         testData[6][0] = 8121.0;
-        testData[6][1] = 44.624;
+        testData[6][1] = 34.624;
         testData[6][2] = 25.3;
         testData[6][3] = 48.9;
 
         testData[7][0] = 9121.0;
-        testData[7][1] = 44.732;
+        testData[7][1] = 34.732;
         testData[7][2] = 22.1;
         testData[7][3] = 58.1;
 
         testData[8][0] = 10121.0;
-        testData[8][1] = 44.785;
+        testData[8][1] = 34.785;
         testData[8][2] = 25.9;
         testData[8][3] = 50.7;
 
         testData[9][0] = 11121.0;
-        testData[9][1] = 44.483;
+        testData[9][1] = 34.483;
         testData[9][2] = 27.0;
         testData[9][3] = 49.4;
-
-        
-//        testData[5][0] = 7121.0;
-//        testData[5][1] = 34.465;
-//        testData[5][2] = 29.1;
-//        testData[5][3] = 41.3;
-//
-//        testData[6][0] = 8121.0;
-//        testData[6][1] = 34.624;
-//        testData[6][2] = 25.3;
-//        testData[6][3] = 48.9;
-//
-//        testData[7][0] = 9121.0;
-//        testData[7][1] = 34.732;
-//        testData[7][2] = 22.1;
-//        testData[7][3] = 58.1;
-//
-//        testData[8][0] = 10121.0;
-//        testData[8][1] = 34.785;
-//        testData[8][2] = 25.9;
-//        testData[8][3] = 50.7;
-//
-//        testData[9][0] = 11121.0;
-//        testData[9][1] = 34.483;
-//        testData[9][2] = 27.0;
-//        testData[9][3] = 49.4;
 
 
         int[] testLabel = new int[testSetSize]; // label of inputs
